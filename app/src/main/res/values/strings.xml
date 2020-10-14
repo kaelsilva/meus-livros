@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meus Livros</string>
+    <string name="btn_close">Fechar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_post">Cadastrar</string>
+    <string name="tv_title">Título</string>
+    <string name="tv_author">Autor</string>
+    <string name="tv_publisher">Editora</string>
+    <string name="tv_pagecount">Nº de Páginas</string>
+</resources>
