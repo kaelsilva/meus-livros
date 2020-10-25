@@ -2,9 +2,17 @@
     <string name="app_name">Meus Livros</string>
     <string name="btn_close">Fechar</string>
     <string name="btn_cancel">Cancelar</string>
+    <string name="btn_back">Voltar</string>
     <string name="btn_post">Cadastrar</string>
     <string name="tv_title">Título</string>
     <string name="tv_author">Autor</string>
     <string name="tv_publisher">Editora</string>
     <string name="tv_pagecount">Nº de Páginas</string>
+    <string name="tv_rbar">Classificação</string>
+    <string name="v_rc_title">texto sem nada</string>
+    <string name="v_rc_author">texto sem nada</string>
+    <string name="v_rc_publisher">texto sem nada</string>
+    <string name="v_rc_pagecount">texto sem nada</string>
+    <string name="v_rc_rbar">texto sem nada</string>
+    <string name="v_rc_pagetitle">Dados inseridos</string>
 </resources>
