@@ -1,4 +1,4 @@
-# meus-livros
+# Meus Livros
 Aplicativo Android para avaliação de livros. Não possui banco de dados e consiste em transpor os dados inseridos de uma activity para outra.
 
 ## Screenshots
